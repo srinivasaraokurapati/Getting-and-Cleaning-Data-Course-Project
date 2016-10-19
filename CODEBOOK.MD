@@ -17,5 +17,5 @@ ________________________________________
 Step 5:
 ________________________________________
 •	Means are found for each variable by subject and activity using aggregate.
-•	Tidy dataset outputted as "meandata.txt".
+•	Tidy dataset outputted as "secTidySet.txt".
 # END#
